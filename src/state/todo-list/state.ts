@@ -1,5 +1,5 @@
 
-interface TodoItem {
+export interface TodoItem {
     name: String;
     done: Boolean;
 }
